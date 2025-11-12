@@ -30,15 +30,11 @@ if __name__ == '__main__':
 
 * Cara Kerja:
 
- 1. Configurator digunakan untuk mengatur aplikasi.
-
- 2. config.add_route('hello', '/') mendaftarkan bahwa URL / akan memiliki nama rute 'hello'.
-
- 3. config.add_view(hello_world, route_name='hello') memberitahu Pyramid: "Jika ada yang mengakses rute 'hello', jalankan fungsi hello_world".
-
- 4. make_wsgi_app() membuat aplikasi WSGI yang bisa dimengerti oleh server.
-
- 5. make_server dari wsgiref (bawaan Python) digunakan untuk menjalankan aplikasi di port 6543.
+  1. Configurator digunakan untuk mengatur aplikasi.
+  2. config.add_route('hello', '/') mendaftarkan bahwa URL / akan memiliki nama rute 'hello'.
+  3. config.add_view(hello_world, route_name='hello') memberitahu Pyramid: "Jika ada yang mengakses rute 'hello', jalankan fungsi hello_world".
+  4. make_wsgi_app() membuat aplikasi WSGI yang bisa dimengerti oleh server.
+  5. make_server dari wsgiref (bawaan Python) digunakan untuk menjalankan aplikasi di port 6543.
 
 * Masalah/Error: Tidak ada masalah. Program berjalan lancar.
 
