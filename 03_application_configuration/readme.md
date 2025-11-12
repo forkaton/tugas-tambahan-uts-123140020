@@ -41,7 +41,7 @@ def main(global_config, **settings):
 
   5. Fungsi view (hello_world) kemudian mengambil nilai tersebut dari registry menggunakan request.registry.settings['app_greeting'] dan menampilkannya sebagai Response.
 
-* Masalah/Error: (Tulis "Tidak ada masalah." jika lancar)
+* Masalah/Error: Tidak ada masalah, program berjalan dengan lancar.
 
 ### 5. Kesimpulan
 Menggunakan file .ini untuk konfigurasi membuat aplikasi lebih fleksibel. Kita bisa mengubah pesan sapaan (atau koneksi database) tanpa harus mengubah kode Python, cukup ubah file .ini dan restart server.
