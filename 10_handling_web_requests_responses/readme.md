@@ -29,7 +29,7 @@ class TutorialViews:
 ```
 ### 3. Hasil Percobaan (Screenshot)
 <img width="960" height="1145" alt="Image" src="https://github.com/user-attachments/assets/b336a1e6-fdb6-464a-beec-9064c6e2d663" />
-<img width="1914" height="1084" alt="Image" src="https://github.com/user-attachments/assets/563c7a64-903a-4ac0-a309-ad0f32186991" />
+<img width="1918" height="1088" alt="Image" src="https://github.com/user-attachments/assets/05e4e3c1-3f12-450d-a109-482497620b10" />
 
 ### 4. Analisis
 * Konsep Utama: Objek request sebagai sumber data.
