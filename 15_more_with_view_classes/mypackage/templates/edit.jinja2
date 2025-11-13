@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Edit Greeting for {{ name }}</title>
+    <link rel="stylesheet" href="{{ request.static_url('mypackage:static/style.css') }}">
+</head>
+<body>
+    <h1>Edit Greeting for: {{ name }}</h1>
+
+    <form method="post">
+        <label for="new_greeting">New Greeting:</label>
+        <input type="text" id="new_greeting" name="new_greeting" value="{{ greeting }}">
+        <input type="submit" value="Save">
+    </form>
+
+</body>
+</html>
