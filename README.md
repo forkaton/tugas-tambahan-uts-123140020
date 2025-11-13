@@ -4,7 +4,7 @@ Repositori ini berisi pengerjaan 15 tutorial Pyramid Framework sebagai bagian da
 
 ---
 
-## 👨‍🎓 Identitas Mahasiswa
+## Identitas Mahasiswa
 
 * **Nama:** Anselmus Herpin Hasugian
 * **NIM:** 123140020
@@ -14,7 +14,7 @@ Repositori ini berisi pengerjaan 15 tutorial Pyramid Framework sebagai bagian da
 
 ---
 
-## 📖 Daftar Isi Percobaan
+## Daftar Isi Percobaan
 
 Setiap percobaan di bawah ini dikerjakan, dianalisis, dan didokumentasikan dalam file `readme.md` di dalam foldernya masing-masing.
 
@@ -33,3 +33,7 @@ Setiap percobaan di bawah ini dikerjakan, dianalisis, dan didokumentasikan dalam
 13. **[Percobaan 13: CSS/JS/Images Files With Static Assets](./13_static_assets/readme.md)**
 14. **[Percobaan 14: AJAX Development With JSON Renderers](./14_ajax_development_json/readme.md)**
 15. **[Percobaan 15: More With View Classes](./15_more_with_view_classes/readme.md)**
+
+## Bukti Melakukan Percobaan Satupersatu dengan Commit+Push Setiap Analisisnya (Didalam setiap Analisis juga ada Screenshot/Dokumentasi setiap Analisisnya) per Tanggal 13 November 2025
+
+<img width="941" height="1150" alt="Image" src="https://github.com/user-attachments/assets/a0030da8-bb93-4daf-918a-50ec5ce3672e" />
