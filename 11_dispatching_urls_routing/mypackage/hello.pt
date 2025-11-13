@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Tutorial 11 - Hello</title>
+</head>
+<body>
+    <h1>${greeting}</h1>
+    
+    <p>Nama dari URL path: <strong>${name}</strong></p>
+    <p>Path URL saat ini: <strong>${path}</strong></p>
+</body>
+</html>
