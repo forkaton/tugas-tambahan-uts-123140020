@@ -60,5 +60,5 @@ class TutorialViews:
 
 * Masalah/Error: Tidak ada error.
 
-5. Kesimpulan
+### 5. Kesimpulan
 matchdict dan dynamic routing adalah cara standar untuk membuat URL yang bersih dan mudah dibaca (RESTful). Ini memisahkan data (seperti ID atau nama) dari query string dan memasukkannya langsung ke path URL, yang lebih intuitif.
